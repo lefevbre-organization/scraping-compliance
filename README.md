@@ -1,6 +1,6 @@
 # Proceso de Búsqueda y Acceso a Sitios Web
 
-El objetivo de este proceso es recorrer el archivo `test.xlsx` que contiene una lista de sitios web en la columna **I3 ("WEBSITE")**. El proceso implicará acceder a cada URL y realizar una búsqueda de palabras clave dentro del contenido del sitio web.
+El objetivo de este proceso es recorrer el archivo `test.xlsx` que contiene una lista de sitios web en la columna **("WEBSITE")**. El proceso implicará acceder a cada URL y realizar una búsqueda de palabras clave dentro del contenido del sitio web.
 
 ## Pasos del Proceso
 
